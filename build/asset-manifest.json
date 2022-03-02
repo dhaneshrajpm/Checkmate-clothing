@@ -1,15 +1,15 @@
 {
-  "main.css": "/dhaneshrajpm/E-comApplication/static/css/main.e89fcf1d.chunk.css",
-  "main.js": "/dhaneshrajpm/E-comApplication/static/js/main.de8409f5.chunk.js",
-  "main.js.map": "/dhaneshrajpm/E-comApplication/static/js/main.de8409f5.chunk.js.map",
-  "runtime~main.js": "/dhaneshrajpm/E-comApplication/static/js/runtime~main.db0228c9.js",
-  "runtime~main.js.map": "/dhaneshrajpm/E-comApplication/static/js/runtime~main.db0228c9.js.map",
-  "static/js/2.6d94f2b2.chunk.js": "/dhaneshrajpm/E-comApplication/static/js/2.6d94f2b2.chunk.js",
-  "static/js/2.6d94f2b2.chunk.js.map": "/dhaneshrajpm/E-comApplication/static/js/2.6d94f2b2.chunk.js.map",
-  "index.html": "/dhaneshrajpm/E-comApplication/index.html",
-  "precache-manifest.7d422afc45b1b64c31d4bddefb12b773.js": "/dhaneshrajpm/E-comApplication/precache-manifest.7d422afc45b1b64c31d4bddefb12b773.js",
-  "service-worker.js": "/dhaneshrajpm/E-comApplication/service-worker.js",
-  "static/css/main.e89fcf1d.chunk.css.map": "/dhaneshrajpm/E-comApplication/static/css/main.e89fcf1d.chunk.css.map",
-  "static/media/crown.ed28accb.svg": "/dhaneshrajpm/E-comApplication/static/media/crown.ed28accb.svg",
-  "static/media/shopping-bag.30f07071.svg": "/dhaneshrajpm/E-comApplication/static/media/shopping-bag.30f07071.svg"
+  "main.css": "/E-comApplication/static/css/main.e89fcf1d.chunk.css",
+  "main.js": "/E-comApplication/static/js/main.de8409f5.chunk.js",
+  "main.js.map": "/E-comApplication/static/js/main.de8409f5.chunk.js.map",
+  "runtime~main.js": "/E-comApplication/static/js/runtime~main.54bcee2a.js",
+  "runtime~main.js.map": "/E-comApplication/static/js/runtime~main.54bcee2a.js.map",
+  "static/js/2.45aedb17.chunk.js": "/E-comApplication/static/js/2.45aedb17.chunk.js",
+  "static/js/2.45aedb17.chunk.js.map": "/E-comApplication/static/js/2.45aedb17.chunk.js.map",
+  "index.html": "/E-comApplication/index.html",
+  "precache-manifest.c6f9762e04dbc01ce4e9f3d40292d6dd.js": "/E-comApplication/precache-manifest.c6f9762e04dbc01ce4e9f3d40292d6dd.js",
+  "service-worker.js": "/E-comApplication/service-worker.js",
+  "static/css/main.e89fcf1d.chunk.css.map": "/E-comApplication/static/css/main.e89fcf1d.chunk.css.map",
+  "static/media/crown.ed28accb.svg": "/E-comApplication/static/media/crown.ed28accb.svg",
+  "static/media/shopping-bag.30f07071.svg": "/E-comApplication/static/media/shopping-bag.30f07071.svg"
 }
