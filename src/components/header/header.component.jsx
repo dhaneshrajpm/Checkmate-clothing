@@ -10,11 +10,12 @@ import { ReactComponent as Logo } from "../../assets/crown.svg";
 import "./header.styles.scss";
 import CartIcon from "../cart-icon/cart-icon.component";
 import CartDropdown from "../cart-dropdown/cart-dropdown.component";
+import { withRouter } from "react-router-dom";
 
-const Header = ({ currentUser, hidden }) => (
+const Header = ({ currentUser, hidden, history }) => (
   <div className="header">
     <div className="logo-container">
-      <Logo />
+      <Logo onClick={() => history.push("/")} />
     </div>
     <div className="options">
       <Link className="option" to="/shop">
@@ -43,4 +44,4 @@ const mapStateToProps = createStructuredSelector({
   hidden: selectCartHiddenProp,
 });
 
-export default connect(mapStateToProps)(Header);
+export default withRouter(connect(mapStateToProps)(Header));
