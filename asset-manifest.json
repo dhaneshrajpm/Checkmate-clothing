@@ -1,15 +1,15 @@
 {
-  "main.css": "/E-comApplication/static/css/main.8fee862f.chunk.css",
-  "main.js": "/E-comApplication/static/js/main.5a88e35a.chunk.js",
-  "main.js.map": "/E-comApplication/static/js/main.5a88e35a.chunk.js.map",
-  "runtime~main.js": "/E-comApplication/static/js/runtime~main.54bcee2a.js",
-  "runtime~main.js.map": "/E-comApplication/static/js/runtime~main.54bcee2a.js.map",
-  "static/js/2.d0f3a90c.chunk.js": "/E-comApplication/static/js/2.d0f3a90c.chunk.js",
-  "static/js/2.d0f3a90c.chunk.js.map": "/E-comApplication/static/js/2.d0f3a90c.chunk.js.map",
-  "index.html": "/E-comApplication/index.html",
-  "precache-manifest.647ed95ab4250b40b73f6347d3349f22.js": "/E-comApplication/precache-manifest.647ed95ab4250b40b73f6347d3349f22.js",
-  "service-worker.js": "/E-comApplication/service-worker.js",
-  "static/css/main.8fee862f.chunk.css.map": "/E-comApplication/static/css/main.8fee862f.chunk.css.map",
-  "static/media/crown.ed28accb.svg": "/E-comApplication/static/media/crown.ed28accb.svg",
-  "static/media/shopping-bag.30f07071.svg": "/E-comApplication/static/media/shopping-bag.30f07071.svg"
+  "main.css": "/Checkmate-clothing/static/css/main.1c974947.chunk.css",
+  "main.js": "/Checkmate-clothing/static/js/main.c9b77f73.chunk.js",
+  "main.js.map": "/Checkmate-clothing/static/js/main.c9b77f73.chunk.js.map",
+  "runtime~main.js": "/Checkmate-clothing/static/js/runtime~main.4a6a3627.js",
+  "runtime~main.js.map": "/Checkmate-clothing/static/js/runtime~main.4a6a3627.js.map",
+  "static/js/2.d9e4649b.chunk.js": "/Checkmate-clothing/static/js/2.d9e4649b.chunk.js",
+  "static/js/2.d9e4649b.chunk.js.map": "/Checkmate-clothing/static/js/2.d9e4649b.chunk.js.map",
+  "index.html": "/Checkmate-clothing/index.html",
+  "precache-manifest.49835728cb5fbe1ae073379a43eff6a3.js": "/Checkmate-clothing/precache-manifest.49835728cb5fbe1ae073379a43eff6a3.js",
+  "service-worker.js": "/Checkmate-clothing/service-worker.js",
+  "static/css/main.1c974947.chunk.css.map": "/Checkmate-clothing/static/css/main.1c974947.chunk.css.map",
+  "static/media/crown.ed28accb.svg": "/Checkmate-clothing/static/media/crown.ed28accb.svg",
+  "static/media/shopping-bag.30f07071.svg": "/Checkmate-clothing/static/media/shopping-bag.30f07071.svg"
 }

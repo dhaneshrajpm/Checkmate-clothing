@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/E-comApplication/precache-manifest.647ed95ab4250b40b73f6347d3349f22.js"
+  "/Checkmate-clothing/precache-manifest.49835728cb5fbe1ae073379a43eff6a3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/E-comApplication/index.html", {
+workbox.routing.registerNavigationRoute("/Checkmate-clothing/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
