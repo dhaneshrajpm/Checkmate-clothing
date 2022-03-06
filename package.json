@@ -1,7 +1,7 @@
 {
   "name": "e-comapplication",
   "version": "1.0.0",
-  "description": "E-comApplication Project",
+  "description": "E-com Application Project",
   "main": "index.js",
   "engines": {
     "node": "v14.17.5"
@@ -39,7 +39,7 @@
   "bugs": {
     "url": "https://github.com/dhaneshrajpm/E-comApplication/issues"
   },
-  "homepage": "https://dhaneshrajpm.github.io/E-comApplication/",
+  "homepage": "https://dhaneshrajpm.github.io/Checkmate-clothing/",
   "browserslist": [
     ">0.2%",
     "not dead",
