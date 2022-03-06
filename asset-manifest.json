@@ -1,15 +1,15 @@
 {
-  "main.css": "/E-comApplication/static/css/main.bbf9951e.chunk.css",
-  "main.js": "/E-comApplication/static/js/main.8af01fb1.chunk.js",
-  "main.js.map": "/E-comApplication/static/js/main.8af01fb1.chunk.js.map",
+  "main.css": "/E-comApplication/static/css/main.8fee862f.chunk.css",
+  "main.js": "/E-comApplication/static/js/main.5a88e35a.chunk.js",
+  "main.js.map": "/E-comApplication/static/js/main.5a88e35a.chunk.js.map",
   "runtime~main.js": "/E-comApplication/static/js/runtime~main.54bcee2a.js",
   "runtime~main.js.map": "/E-comApplication/static/js/runtime~main.54bcee2a.js.map",
-  "static/js/2.447eed7d.chunk.js": "/E-comApplication/static/js/2.447eed7d.chunk.js",
-  "static/js/2.447eed7d.chunk.js.map": "/E-comApplication/static/js/2.447eed7d.chunk.js.map",
+  "static/js/2.d0f3a90c.chunk.js": "/E-comApplication/static/js/2.d0f3a90c.chunk.js",
+  "static/js/2.d0f3a90c.chunk.js.map": "/E-comApplication/static/js/2.d0f3a90c.chunk.js.map",
   "index.html": "/E-comApplication/index.html",
-  "precache-manifest.d887acd6eacf4fa81cbc3a1c34a52967.js": "/E-comApplication/precache-manifest.d887acd6eacf4fa81cbc3a1c34a52967.js",
+  "precache-manifest.647ed95ab4250b40b73f6347d3349f22.js": "/E-comApplication/precache-manifest.647ed95ab4250b40b73f6347d3349f22.js",
   "service-worker.js": "/E-comApplication/service-worker.js",
-  "static/css/main.bbf9951e.chunk.css.map": "/E-comApplication/static/css/main.bbf9951e.chunk.css.map",
+  "static/css/main.8fee862f.chunk.css.map": "/E-comApplication/static/css/main.8fee862f.chunk.css.map",
   "static/media/crown.ed28accb.svg": "/E-comApplication/static/media/crown.ed28accb.svg",
   "static/media/shopping-bag.30f07071.svg": "/E-comApplication/static/media/shopping-bag.30f07071.svg"
 }
