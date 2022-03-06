@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "E-comApplication Project",
   "main": "index.js",
+  "engines": {
+    "node": "v"
+  },
   "dependencies": {
     "firebase": "9.5.0",
     "gh-pages": "^3.2.3",
