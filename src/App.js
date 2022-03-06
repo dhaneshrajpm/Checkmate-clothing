@@ -12,12 +12,13 @@ import { setCurrentUser } from "./redux/user/user.actions";
 import { createStructuredSelector } from "reselect";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 import CheckOutPage from "./pages/checkoutpage/checkoutpage.component";
+import PaymentSuccessComponent from "./components/payment-success/payment-success.component";
 
 class App extends React.Component {
   unSubscribeFromAuth = null;
 
   componentDidMount() {
-    const {setCurrentUser} = this.props;
+    const { setCurrentUser } = this.props;
 
     this.unSubscribeFromAuth = auth.onAuthStateChanged(async (userAuth) => {
       if (userAuth) {
@@ -43,9 +44,15 @@ class App extends React.Component {
       <div className="App">
         <Header />
         <Switch>
-          <Route exact path="/checkout" component={CheckOutPage}/>
+          <Route exact path="/checkout" component={CheckOutPage} />
           <Route path="/shop" component={ShopPage} />
-          <Route path="/signIn" render={ () => this.props.currentUser ? (<Redirect to='/'/>) : (<SignInAndSignUp/>) }/>
+          <Route
+            path="/signIn"
+            render={() =>
+              this.props.currentUser ? <Redirect to="/" /> : <SignInAndSignUp />
+            }
+          />
+          <Route path="/paymentSuccess" component={PaymentSuccessComponent} />
           <Route exact path="/" component={HomePage} />
         </Switch>
       </div>
@@ -54,8 +61,8 @@ class App extends React.Component {
 }
 
 const mapStateToProps = createStructuredSelector({
-  currentUser : selectCurrentUser
-})
+  currentUser: selectCurrentUser,
+});
 
 const mapDispatchToProps = (dispatch) => ({
   setCurrentUser: (user) => dispatch(setCurrentUser(user)),

@@ -1,0 +1,16 @@
+.border {
+  background-color: green;
+  height: 250px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .txt {
+    display: flex;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 220%;
+  }
+}
