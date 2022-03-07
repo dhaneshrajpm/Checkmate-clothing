@@ -1,15 +1,15 @@
 {
-  "main.css": "/Checkmate-clothing/static/css/main.1c974947.chunk.css",
-  "main.js": "/Checkmate-clothing/static/js/main.c9b77f73.chunk.js",
-  "main.js.map": "/Checkmate-clothing/static/js/main.c9b77f73.chunk.js.map",
-  "runtime~main.js": "/Checkmate-clothing/static/js/runtime~main.4a6a3627.js",
-  "runtime~main.js.map": "/Checkmate-clothing/static/js/runtime~main.4a6a3627.js.map",
-  "static/js/2.d9e4649b.chunk.js": "/Checkmate-clothing/static/js/2.d9e4649b.chunk.js",
-  "static/js/2.d9e4649b.chunk.js.map": "/Checkmate-clothing/static/js/2.d9e4649b.chunk.js.map",
-  "index.html": "/Checkmate-clothing/index.html",
-  "precache-manifest.49835728cb5fbe1ae073379a43eff6a3.js": "/Checkmate-clothing/precache-manifest.49835728cb5fbe1ae073379a43eff6a3.js",
-  "service-worker.js": "/Checkmate-clothing/service-worker.js",
-  "static/css/main.1c974947.chunk.css.map": "/Checkmate-clothing/static/css/main.1c974947.chunk.css.map",
-  "static/media/crown.ed28accb.svg": "/Checkmate-clothing/static/media/crown.ed28accb.svg",
-  "static/media/shopping-bag.30f07071.svg": "/Checkmate-clothing/static/media/shopping-bag.30f07071.svg"
+  "main.css": "/static/css/main.1c974947.chunk.css",
+  "main.js": "/static/js/main.c9b77f73.chunk.js",
+  "main.js.map": "/static/js/main.c9b77f73.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.67b441d6.chunk.js": "/static/js/2.67b441d6.chunk.js",
+  "static/js/2.67b441d6.chunk.js.map": "/static/js/2.67b441d6.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7c2d4c3cab4f1d0192bd9a012794da08.js": "/precache-manifest.7c2d4c3cab4f1d0192bd9a012794da08.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.1c974947.chunk.css.map": "/static/css/main.1c974947.chunk.css.map",
+  "static/media/crown.ed28accb.svg": "/static/media/crown.ed28accb.svg",
+  "static/media/shopping-bag.30f07071.svg": "/static/media/shopping-bag.30f07071.svg"
 }
