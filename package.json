@@ -1,5 +1,5 @@
 {
-  "name": "e-comapplication",
+  "name": "checkmate-clothing",
   "version": "1.0.0",
   "description": "E-com Application Project",
   "main": "index.js",
@@ -25,21 +25,20 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "react-scripts": "2.1.8"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhaneshrajpm/E-comApplication.git"
+    "url": "git+https://github.com/dhaneshrajpm/Checkmate-clothing.git"
   },
   "author": "Dhanesh raj PM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dhaneshrajpm/E-comApplication/issues"
+    "url": "https://github.com/dhaneshrajpm/Checkmate-clothing/issues"
   },
-  "homepage": "https://dhaneshrajpm.github.io/",
   "browserslist": [
     ">0.2%",
     "not dead",
